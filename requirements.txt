@@ -182,7 +182,7 @@ spacy-transformers==1.0.2
 sqlparse==0.4.1
 srsly==2.4.1
 streamlit==0.79.0
-TA-Lib @ ./TA_Lib-0.4.19-cp37-cp37m-win_amd64.whl
+./TA_Lib-0.4.19-cp37-cp37m-win_amd64.whl
 terminado==0.9.4
 testpath==0.4.4
 texttable==1.6.3
